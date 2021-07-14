@@ -1,5 +1,9 @@
-# dk110-igpu-fixer
-DeskMini 110 iGPU cause system freezes fixer
+# deskmini-110-tuner
+DeskMini 110 uEFI Tuner Utility
+* fix iGPU cause system freezes
+* change DVMT settings
+* unlock ME once
+* and more ...
 
 # Usage
 1. Move mouse to green ```Code``` button
